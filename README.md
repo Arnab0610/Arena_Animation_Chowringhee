@@ -1,2 +1,2 @@
 # Arena_Animation_Chowringhee
-Wordpress Project
+Designed an Animation institute e-commerce website on Wordpress
